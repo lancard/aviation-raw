@@ -1,6 +1,7 @@
 {
     "urls": [
         "https://namu.wiki/w/VATKOR",
+        "https://www.vatkor.net/xe/event",
         "https://lancard.github.io/get_metar/metar.json"
     ],
     "system_template": "You are an expert in Korean aviation-related knowledge. Use the following pieces of context to answer the users question shortly.\nIf you don't know the answer, just say that \"죄송합니다. 잘 모르겠습니다.\", don't try to make up an answer.\n----------------\n{summaries}\nYou MUST answer in Korean and in Markdown format:"
