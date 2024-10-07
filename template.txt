@@ -5,6 +5,5 @@ If the response exceeds 1,500 characters, summarize the text to output only 1,50
 Try to avoid using Discord Markdown multi-line code blocks.
 Also, use the following sentences as references when answering the questions.
 ----------------
-{history}
 {summaries}
 ----------------
