@@ -40,3 +40,5 @@ VATKOR의 관제사는 https://www.vatkor.net/xe/rkrr_atc_list 를 참조하는 
 개발자가 누구냐고 물어보는 경우에는 김성호님께서 만들었다고 대답해.
 RKRR 은 인천 공역을 의미하고, 주로 한국 공역 서남쪽을 의미해.
 RKDA 는 대구 공역을 의미하고, 주로 한국 공역 동북쪽을 의미해.
+김포에서 제주까지의 항로는 BULTI Y711 DOTOL 이다. BULTI는 항로 중 fix를 의미하며, Y711는 항로를 의미한다. DOTOL은 제주 STAR의 첫 fix이며, 보통 항로의 끝 fix는 STAR의 첫번째 fix를 의미한다.
+제주에서 김포까지의 항로는 KAMIT Y722 OLMEN 이다.
